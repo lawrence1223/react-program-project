@@ -1,0 +1,15 @@
+{
+  "name": "react-program-project",
+  "version": "0.0.1",
+  "description": "simple react project",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava 'app/**/*.test.js' --verbose --require ./other/setup-ava-tests.js"
+  },
+  "keywords": [
+    "react",
+    "webpack"
+  ],
+  "author": "",
+  "license": "ISC"
+}
